@@ -1,10 +1,10 @@
-#Title
+# Title
 Catch The Falling Items
 
-##Repository
+## Repository
 https://github.com/PiperZO/Final-Project
 
-##Description
+## Description
 Players can choose between two characters who walk back and forth across the screen holding baskets to catch falling items unique to the character. This project combines programming, animation, and visual design to create an interactive game.
 
 ## Features
